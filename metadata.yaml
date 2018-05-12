@@ -1,0 +1,32 @@
+_repo: The-Mermaid-of-Druid-Lake-and-Other-Stories_31082
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bump, Charles Weathers
+    birthdate: 1872
+    deathdate: 1908
+    gutenberg_agent_id: '34992'
+    url: http://www.gutenberg.org/2009/agents/34992
+description: ''
+gutenberg_issued: '2010-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31082'
+  lccn: '06045357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Fiction'
+tableOfContents: The mermaid of Druid lake -- The goddess of truth -- A daughter of
+  Cuba libre -- A two-party line -- Timon up to date -- The night that Patti sang
+  -- An island on a jamboree -- Alexander the Great -- Breaking into medicine -- The
+  pink ghost of Franklin Square -- The vanished mummy -- "Mount Vernon 1-0-0-0".
+title: The Mermaid of Druid Lake, and Other Stories
+url: http://www.gutenberg.org/ebooks/31082

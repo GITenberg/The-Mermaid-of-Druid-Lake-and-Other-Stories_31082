@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34992'
     url: http://www.gutenberg.org/2009/agents/34992
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31082#The-Mermaid-of-Druid-Lake-and-Other-Stories
 gutenberg_issued: '2010-01-26'
 gutenberg_type: Text
 identifiers:
